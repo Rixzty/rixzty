@@ -30,19 +30,19 @@ Here are some ideas to get you started:
 -- Informatics Engineering; regular programming, virtual reality and videogame programming.
 
 - 👯 I’m looking to collaborate on ...
--- Minecraft Projects
--- Website Projects
--- Anything related with web development, minecraft, fivem, rust, etc.
+  - Minecraft Projects
+  - Website Projects
+  - Anything related with web development, minecraft, fivem, rust, etc.
 
 - 💬 Ask me about ...
--- Anything! I'll be happy to help. ❤️
+  - Anything! I'll be happy to help. ❤️
 
 - 📫 How to reach me: ...
--- Twitter Direct Messages: (Twitter)[https://twitter.com/Rixzty)
--- Email: admin@rix.dev
+  - Twitter Direct Messages: [Twitter](https://twitter.com/Rixzty)
+  - Email: [admin@rix.dev](mailto:admin@rix.dev)
 
 - 😄 Pronouns: ...
--- He/Him
+  - He/Him
 
 - ⚡ Fun fact: ...
--- I love Music, Learning, Programming, Gaming, Streams, Creativity, Comedy Films and Daydreaming.
+  - I love Music, Learning, Programming, Gaming, Streams, Creativity, Comedy Films and Daydreaming.
