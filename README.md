@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 😎 Programming languages I know
--- JavaScript
--- HTML
--- CSS
--- Lua
--- PHP
+  - JavaScript
+  - HTML
+  - CSS
+  - Lua
+  - PHP
 
 - 🔭 I’m currently working on ...
   - **Seven Days Minecraft**; a minecraft server where people is going to survive for 7 days.
