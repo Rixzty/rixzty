@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 -- PHP
 
 - 🔭 I’m currently working on ...
--- 
+  - **Seven Days Minecraft**; a minecraft server where people is going to survive for 7 days.
 
 - 🌱 I’m currently learning ...
--- Informatics Engineering; regular programming, virtual reality and videogame programming.
+  - Informatics Engineering; regular programming, virtual reality and videogame programming.
 
 - 👯 I’m looking to collaborate on ...
   - Minecraft Projects
