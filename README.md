@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Rixzty. I'm from Spain and a student from the University of Deusto. I'm passionate on learning programming, virtual reality, technology and systems.
+
 <!--
 **Rixzty/rixzty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😎 Programming languages I know
+-- JavaScript
+-- HTML
+-- CSS
+-- Lua
+-- PHP
+
+- 🔭 I’m currently working on ...
+-- 
+
+- 🌱 I’m currently learning ...
+-- Informatics Engineering; regular programming, virtual reality and videogame programming.
+
+- 👯 I’m looking to collaborate on ...
+-- Minecraft Projects
+-- Website Projects
+-- Anything related with web development, minecraft, fivem, rust, etc.
+
+- 💬 Ask me about ...
+-- Anything! I'll be happy to help. ❤️
+
+- 📫 How to reach me: ...
+-- Twitter Direct Messages: (Twitter)[https://twitter.com/Rixzty)
+-- Email: admin@rix.dev
+
+- 😄 Pronouns: ...
+-- He/Him
+
+- ⚡ Fun fact: ...
+-- I love Music, Learning, Programming, Gaming, Streams, Creativity, Comedy Films and Daydreaming.
