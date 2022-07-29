@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
   - **Seven Days Minecraft**; a minecraft server where people is going to survive for 7 days.
+  - **Kirikino.wiki**; I programmed part of the page and also edited some code to fit the website for a college information site.
 
 - 🌱 I’m currently learning ...
   - Informatics Engineering; regular programming, virtual reality and videogame programming.
