@@ -21,7 +21,6 @@ Here are some ideas to get you started:
   - HTML
   - CSS
   - Lua
-  - PHP
 
 - 🔭 I’m currently working on ...
   - **[TwitchPlus](https://twitchplus.tv)** is a platform to watch multiple streams at the same time.
