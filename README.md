@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
   - **[TwitchPlus](https://twitchplus.tv)** is a platform to watch multiple streams at the same time.
-  - **Seven Days Minecraft**; a minecraft server where people is going to survive for 7 days.
+  - **SDM**; a minecraft server where people is going to survive for 7 days.
   - **[Kirikino.wiki](https://github.com/Rixzty/kirikinowiki.github.io)**; I programmed part of the page and also edited some code to fit the website for a college       information site. (It runs thanks to Docusaurus system and powered by Vercel)
 
 - 🌱 I’m currently learning ...
